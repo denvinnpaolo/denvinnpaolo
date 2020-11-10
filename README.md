@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/yXyIg3Ymtvw0dnQTuC/giphy.gif" >
 
 <!--
 **denvinnpaolo/denvinnpaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
